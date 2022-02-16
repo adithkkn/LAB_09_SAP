@@ -3,14 +3,14 @@ angular.module('myapp',['ngRoute'])
 {
     $routeProvider.when('/home',
     {
-        templateUrl:'christ/home.html',
+        templateUrl:'home.html',
         controller:'homectrl'}).when('/home/:first/:last',
         {
-            templateUrl:'christ/home.html',
+            templateUrl:'home.html',
             controller:'homectrl'
     }).when('/course',
     {
-        templateUrl:'christ/Bookingmanip.html',
+        templateUrl:'Bookingmanip.html',
         controller:'Empmanipctrl'
     }).when('/student',
     {
