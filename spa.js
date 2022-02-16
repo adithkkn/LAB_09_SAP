@@ -1,20 +1,20 @@
 angular.module('myapp',['ngRoute'])
 .config(function($routeProvider)
 {
-    $routeProvider.when('/home',
+    $routeProvider.when('home',
     {
         templateUrl:'home.html',
         controller:'homectrl'}).when('/home/:first/:last',
         {
             templateUrl:'home.html',
             controller:'homectrl'
-    }).when('/course',
+    }).when('course',
     {
         templateUrl:'Bookingmanip.html',
         controller:'Empmanipctrl'
     }).when('/student',
     {
-        templateUrl:'christ/BPsearch.html',
+        templateUrl:'BPsearch.html',
         controller:'studentctrl'
     })
 })
