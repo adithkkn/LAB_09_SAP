@@ -1,0 +1,10 @@
+{"data":[
+    {"id":1, "Passengername":"Adith", "trainno": 1236, "source_destination": "mumbai/delhi","Ticketprice":500,"Bookdate":"2000-07-17"},
+    {"id":2, "Passengername":"Rohit", "trainno": 1242, "source_destination": "kochi/kanpur", "Ticketprice":800,"Bookdate":"2000-11-04"},
+    {"id":3, "Passengername":"Navya", "trainno": 1342, "source_destination": "goa/ahmedabad", "Ticketprice":450,"Bookdate":"2000-09-07"},
+    {"id":4, "Passengername":"Anil", "trainno": 1986, "source_destination": "mangalore/ranchi", "Ticketprice":900,"Bookdate":"2000-03-09"},
+    {"id":5, "Passengername":"Virat", "trainno": 1325, "source_destination": "Goa/bangalore", "Ticketprice":800,"Bookdate":"2000-01-11"},
+    {"id":6, "Passengername":"Suryakumar", "trainno": 1122, "source_destination": "delhi/trivandrum", "Ticketprice":650,"Bookdate":"2000-09-12"},
+    {"id":7, "Passengername":"Kumble", "trainno": 1345, "source_destination": "kollam/kochi", "Ticketprice":950,"Bookdate":"2000-11-02"}
+    
+]}
